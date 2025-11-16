@@ -1,0 +1,17 @@
+[
+    {
+        "user_id": 1,
+        "language": "English",
+        "theme": "Dark"
+    },
+    {
+        "user_id": 2,
+        "language": "Hindi",
+        "theme": "Light"
+    },
+    {
+        "user_id": 3,
+        "language": "Telugu",
+        "theme": "Dark"
+    }
+]
