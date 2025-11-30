@@ -1,0 +1,6 @@
+Supplier_name,Supplier_Id,Part_ID,Material,Length (mm),Width (mm),Height (mm),Thickness (mm),Weight (kg),Complexity,Process,Surface Finish,Quantity,Delivery Time (days)
+Supplier1,s1,P001,Steel,200,100,50,nan,12.5,Complex,Machining,High,100,30
+Supplier1,s1,P002,Aluminum,150,75,40,3,8,Simple,Casting,Medium,200,45
+Supplier1,s1,P003,Plastic,100,nan,30,2,2.5,Simple,Injection,Low,300,25
+Supplier1,s1,P004,Steel,250,120,60,4,15,Complex,Forging,High,150,40
+Supplier1,s1,P005,Copper,300,150,,9999.99,18.5,Complex,Casting,Medium,180,35
